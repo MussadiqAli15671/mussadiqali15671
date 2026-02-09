@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Mussadiq Ali
 
-<!--
-**MussadiqAli15671/mussadiqali15671** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | AI Engineer | Chatbot Specialist  
 
-Here are some ideas to get you started:
+I build **scalable web applications**, **AI-powered systems**, **chatbots**, and **enterprise-grade software solutions** using modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- .NET Core, C#
+- React, TypeScript
+- Python, Machine Learning, NLP, Neural Networks
+- REST APIs, Cloud & DevOps
+- AI Chatbots & Automation
+
+## 🌍 Portfolio
+👉 https://mussadiqali15671.github.io/my-portfolio/
+
+## 💼 Services
+- Full Stack Web Development  
+- AI & Machine Learning Solutions
+- Neural Networks
+- WhatsApp & Voice AI Chatbots  
+- Custom Software Development  
+- Business Websites & Dashboards  
+
+## 📫 Contact
+- WhatsApp: +92 310 5292088  
+- Email: ali11mussadiq@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/mussadiqaliprogrammer/
