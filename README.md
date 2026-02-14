@@ -12,7 +12,7 @@ I build **scalable web applications**, **AI-powered systems**, **chatbots**, and
 - AI Chatbots & Automation
 
 ## 🌍 Portfolio
-👉 https://mussadiqali15671.github.io/my-portfolio/
+👉 https://my-portfolio-mu-liard-vgt5886y18.vercel.app/
 
 ## 💼 Services
 - Full Stack Web Development  
