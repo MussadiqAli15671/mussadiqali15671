@@ -117,7 +117,7 @@ automation workflows.
 `Python` `LLMs` `RAG` `LangChain` `LangGraph` `AI Agents`
 
 🔗 **Live Project / Repository:**
-*Add your AgentDeskAI URL here*
+*https://drive.google.com/file/d/1Ei9fhx7E1d5_5Vg8UDGLVoFv3XIiziho/view?usp=drive_link*
 
 ---
 
@@ -192,7 +192,7 @@ notifications, and cloud storage**.
 `Stripe` `Stripe Connect` `OneSignal` `Azure Blob Storage`
 
 🔗 **Project:**
-*Add your MySchedule Buddy URL here*
+*https://play.google.com/store/apps/details?id=com.routine.routine_planner*
 
 ---
 
@@ -239,7 +239,7 @@ certification-related workflows.
 
 **Technologies:**
 
-`.NET Core` `C#` `SQL Server` `React` `TypeScript`
+`.NET Core` `C#` `SQL Server` `React` `TypeScript` `Power Automate Workflows` `Dynamcs365` `Vite` `TypeScript`
 
 ---
 
