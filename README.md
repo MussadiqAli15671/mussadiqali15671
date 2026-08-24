@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mussadiqaliprogrammer/">LinkedIn</a> •
   <a href="https://mussadiq.dev.intellectgate.co.nz/">Portfolio</a> •
-  <a href="[https://mussadiq.dev.intellectgate.co.nz/](https://drive.google.com/file/d/1jnAmKY7cXz9ziLjiMHepqm_ejJZ7kwE_/view?usp=sharing)">Live Projects</a>
+  <a href="https://drive.google.com/file/d/1jnAmKY7cXz9ziLjiMHepqm_ejJZ7kwE_/view?usp=sharing">Live Projects</a>
 </p>
 
 ---
