@@ -320,6 +320,7 @@ Developed and maintained full-stack web applications, handling both frontend and
 * Twilio
 * OneSignal (Push Notifications)
 * Stripe (Payment Gateway)
+* SQL Server Profiler (Profiling for application performance)
 
 ---
 
