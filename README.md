@@ -246,19 +246,48 @@ certification-related workflows.
 
 # 💼 Professional Experience
 
-## Full Stack Engineer — ASM WIZ LLC
+## Full Stack Engineer — KodersPoint (Pakistan)
+**Oct 2024 – Jul 2026**
 
-**September 2024 – September 2025**
+Worked as a Full Stack Developer, contributing to the design, development, and deployment of web applications from concept to production.
+Developed responsive interfaces and built the backend of ScheduleBuddy using ASP.NET Core, implementing user plan management, multi-role support, and parent-child workflows for shared schedules, tasks, and requests.
+Implemented alarm and reminder systems using OneSignal with customized push notifications. Built real-time communication using SignalR (WebSockets) for instant synchronization of plans, tasks, and notifications.
+Developed e-commerce features, order workflows, Story modules with posts, likes, and comments, and admin dashboards using React and TypeScript. Implemented a Refer & Earn system using Stripe Connect with multi-account payment distribution and sandbox testing.
+Worked with React, TypeScript, Node.js, ASP.NET Core, and SQL following clean architecture principles with focus on scalability, performance, and security.
+Developed AI-powered applications using LangChain, LangGraph, RAG pipelines, vector retrieval systems, and LLM APIs including OpenAI and Groq. Built AI assistants, automation workflows, and agentic AI solutions with multi-step reasoning and tool integration.
+Worked with Hugging Face transformer models for NLP and computer vision tasks including sentiment analysis, zero-shot classification, image classification, and image caption generation. Integrated AI capabilities into production applications through scalable backend APIs and built automation workflows using n8n.
 
-Worked on production enterprise applications across frontend, backend,
-database, and DevOps layers.
+## Full Stack Engineer — ASM WIZ LLC (USA)
+
+**Sep 2024 – Sep 2025**
+
+At ASMWiz LLC, I contributed to multiple enterprise-grade applications across industries such as education, energy, and service management. My responsibilities included full-stack development, backend architecture design, CI/CD automation, and system optimization.
+
+I designed and implemented scalable backend architectures using .NET Core and SQL Server, including complex database modeling, RESTful API development, and modular service layers. I actively reverse-engineered and improved legacy systems using tools like SQL Profiler and Azure DevOps, significantly enhancing performance and reducing response times.
+
+I integrated external services such as localization, OAuth-based authentication providers, and third-party APIs to enrich application functionality and improve accessibility. My role also included creating and managing CI/CD pipelines using Azure DevOps, FrontDoor, Azure Blob Storage, DNS streamlining builds and deployments, and managing repositories through GitHub Desktop and Azure Repos.
+
+On the frontend, I developed responsive user interfaces using React, Redux, TypeScript, and Bootstrap, ensuring seamless user experiences. I also worked with Microsoft Dynamics 365 Dataverse, where I designed custom tables, handled entity relationships, and used the XRM SDK to implement business logic and workflows tailored to specific requirements.
+
+Throughout the projects, I collaborated with cross-functional teams to deliver maintainable, scalable, and production-ready features that improved client satisfaction and operational efficiency.
+
+## Full Stack Engineer — GrowUp Tech Solutions (Pakistan)
+
+**Jun 2022 – Jun 2023**
+
+Developed and maintained full-stack web applications, handling both frontend and backend development. Worked with React.js for frontend development, Python for backend logic, and managed databases to ensure data integrity and performance across various projects. Contributed to VR gaming gesture-based web solutions and developed cleaning service applications, gaining experience in building interactive, user-focused, and scalable web systems.
 
 ### Backend
 
 * .NET Core Web APIs
 * C#
 * Entity Framework Core
+* Python (Django, Fast Api)
 * SQL Server
+* Firebase
+* Postgresql
+* QDrant (Vector database)
+* Dynamics 365
 * REST APIs
 * Business logic
 * Database architecture
@@ -266,6 +295,7 @@ database, and DevOps layers.
 ### Frontend
 
 * React
+* Angular
 * TypeScript
 * Redux
 * Vite
@@ -273,9 +303,23 @@ database, and DevOps layers.
 ### DevOps
 
 * Azure DevOps
+* Railway
+* Somee
+* Vercel
 * CI/CD
 * Git
 * Enterprise deployment workflows
+
+### ThirdParty Tools
+* Redis
+* Docker
+* Google Cloud Console
+* Google Maps (APIs Analysis)
+* Google OAuth
+* Third party Authentications
+* Twilio
+* OneSignal (Push Notifications)
+* Stripe (Payment Gateway)
 
 ---
 
