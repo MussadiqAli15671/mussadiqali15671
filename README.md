@@ -6,8 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mussadiqaliprogrammer/">LinkedIn</a> •
-  <a href="https://mussadiq.dev.intellectgate.co.nz/">Portfolio</a> •
-  <a href="https://matechs-solutions.vercel.app/">MATechs AI</a>
+  <a href="https://mussadiq.dev.intellectgate.co.nz/">Portfolio</a>
 </p>
 
 ---
@@ -24,6 +23,8 @@ automation into practical software systems.
 
 🎓 **BS Computer Science (Hons)** — NUML Islamabad
 🏅 **BSCS Gold Medalist**
+📊 **CGPA: 3.95 / 4.00**
+
 🎓 **MPhil Computer Science** — Quaid-i-Azam University, Islamabad
 📊 **MPhil Coursework CGPA: 3.93 / 4.00**
 💻 **AI Engineer | Full-Stack Developer**
