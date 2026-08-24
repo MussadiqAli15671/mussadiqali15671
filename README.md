@@ -633,6 +633,9 @@ SignalR
 🔹 **MATechs Solutions / AI Support Agent**
 [https://matechs-solutions.vercel.app/](https://matechs-solutions.vercel.app/)
 
+🔹 **AgentDeskAI**
+[https://drive.google.com/file/d/1Ei9fhx7E1d5_5Vg8UDGLVoFv3XIiziho/view?usp=drive_link](https://drive.google.com/file/d/1Ei9fhx7E1d5_5Vg8UDGLVoFv3XIiziho/view?usp=drive_link)
+
 🔹 **PairForgeAI**
 [https://go6datwawhft8tcemat8gt.streamlit.app/](https://go6datwawhft8tcemat8gt.streamlit.app/)
 
